@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<oembed><version>1.0</version><provider_name>Areli</provider_name><provider_url>https://www.areli.fr</provider_url><title>Laur&#xE9;ats et repr&#xE9;sentants des &#xE9;tablissements de la Catho r&#xE9;unis pour un temps d&#x2019;&#xE9;changes - Areli</title><type>rich</type><width>600</width><height>338</height><html>&lt;blockquote class="wp-embedded-content" data-secret="Yyv2iIYzur"&gt;&lt;a href="https://www.areli.fr/2022/05/16/laureats-et-representants-des-etablissements-de-la-catho-reunis-pour-un-temps-dechanges/"&gt;Laur&#xE9;ats et repr&#xE9;sentants des &#xE9;tablissements de la Catho r&#xE9;unis pour un temps d&#x2019;&#xE9;changes&lt;/a&gt;&lt;/blockquote&gt;&lt;iframe sandbox="allow-scripts" security="restricted" src="https://www.areli.fr/2022/05/16/laureats-et-representants-des-etablissements-de-la-catho-reunis-pour-un-temps-dechanges/embed/#?secret=Yyv2iIYzur" width="600" height="338" title="&#xAB;&#xA0;Laur&#xE9;ats et repr&#xE9;sentants des &#xE9;tablissements de la Catho r&#xE9;unis pour un temps d&#x2019;&#xE9;changes&#xA0;&#xBB; &#x2014; Areli" data-secret="Yyv2iIYzur" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="wp-embedded-content"&gt;&lt;/iframe&gt;&lt;script type="text/javascript"&gt;
+/* &lt;![CDATA[ */
+/*! This file is auto-generated */
+!function(d,l){"use strict";l.querySelector&amp;&amp;d.addEventListener&amp;&amp;"undefined"!=typeof URL&amp;&amp;(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&amp;&amp;!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret="'+t.secret+'"]'),o=l.querySelectorAll('blockquote[data-secret="'+t.secret+'"]'),c=new RegExp("^https?:$","i"),i=0;i&lt;o.length;i++)o[i].style.display="none";for(i=0;i&lt;a.length;i++)s=a[i],e.source===s.contentWindow&amp;&amp;(s.removeAttribute("style"),"height"===t.message?(1e3&lt;(r=parseInt(t.value,10))?r=1e3:~~r&lt;200&amp;&amp;(r=200),s.height=r):"link"===t.message&amp;&amp;(r=new URL(s.getAttribute("src")),n=new URL(t.value),c.test(n.protocol))&amp;&amp;n.host===r.host&amp;&amp;l.activeElement===s&amp;&amp;(d.top.location.href=t.value))}},d.addEventListener("message",d.wp.receiveEmbedMessage,!1),l.addEventListener("DOMContentLoaded",function(){for(var e,t,s=l.querySelectorAll("iframe.wp-embedded-content"),r=0;r&lt;s.length;r++)(t=(e=s[r]).getAttribute("data-secret"))||(t=Math.random().toString(36).substring(2,12),e.src+="#?secret="+t,e.setAttribute("data-secret",t)),e.contentWindow.postMessage({message:"ready",secret:t},"*")},!1)))}(window,document);
+/* ]]&gt; */
+&lt;/script&gt;
+</html><thumbnail_url>https://www.areli.fr/wp-content/uploads/2022/05/Emerg-web.jpg</thumbnail_url><thumbnail_width>403</thumbnail_width><thumbnail_height>410</thumbnail_height><description>En octobre dernier, l&#x2019;Institut Catholique de Lille renouvelait sa convention de partenariat avec Emergence pour 3 ann&#xE9;es suppl&#xE9;mentaires. Cette signature officielle a donn&#xE9; suite, le 27 avril dernier, &#xE0; un temps d&#x2019;&#xE9;changes et de rencontre au Hangar Cr&#xE9;atif, &#xE0; l&#x2019;invitation de Patrick Scauflaire, pr&#xE9;sident-recteur de la Catho. Etaient pr&#xE9;sents : les doyens des facult&#xE9;s, les [&hellip;]</description></oembed>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Mise en cache objet de 30/67 objets utilisant Disk
+Mise en cache de page à l’aide de Disk: Enhanced (Requested URI contains query) 
+Mise en cache de la base de données de 7/7 requêtes en 0.001 secondes utilisant Disk
+
+Served from: www.areli.fr @ 2024-03-18 10:53:54 by W3 Total Cache
+-->

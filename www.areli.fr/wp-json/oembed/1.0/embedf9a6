@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<oembed><version>1.0</version><provider_name>Areli</provider_name><provider_url>https://www.areli.fr</provider_url><title>Questions fr&#xE9;quentes - Areli</title><type>rich</type><width>600</width><height>338</height><html>&lt;blockquote class="wp-embedded-content" data-secret="qnV9oVyJZ2"&gt;&lt;a href="https://www.areli.fr/le-programme-emergence/faq/"&gt;Questions fr&#xE9;quentes&lt;/a&gt;&lt;/blockquote&gt;&lt;iframe sandbox="allow-scripts" security="restricted" src="https://www.areli.fr/le-programme-emergence/faq/embed/#?secret=qnV9oVyJZ2" width="600" height="338" title="&#xAB;&#xA0;Questions fr&#xE9;quentes&#xA0;&#xBB; &#x2014; Areli" data-secret="qnV9oVyJZ2" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="wp-embedded-content"&gt;&lt;/iframe&gt;&lt;script type="text/javascript"&gt;
+/* &lt;![CDATA[ */
+/*! This file is auto-generated */
+!function(d,l){"use strict";l.querySelector&amp;&amp;d.addEventListener&amp;&amp;"undefined"!=typeof URL&amp;&amp;(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&amp;&amp;!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret="'+t.secret+'"]'),o=l.querySelectorAll('blockquote[data-secret="'+t.secret+'"]'),c=new RegExp("^https?:$","i"),i=0;i&lt;o.length;i++)o[i].style.display="none";for(i=0;i&lt;a.length;i++)s=a[i],e.source===s.contentWindow&amp;&amp;(s.removeAttribute("style"),"height"===t.message?(1e3&lt;(r=parseInt(t.value,10))?r=1e3:~~r&lt;200&amp;&amp;(r=200),s.height=r):"link"===t.message&amp;&amp;(r=new URL(s.getAttribute("src")),n=new URL(t.value),c.test(n.protocol))&amp;&amp;n.host===r.host&amp;&amp;l.activeElement===s&amp;&amp;(d.top.location.href=t.value))}},d.addEventListener("message",d.wp.receiveEmbedMessage,!1),l.addEventListener("DOMContentLoaded",function(){for(var e,t,s=l.querySelectorAll("iframe.wp-embedded-content"),r=0;r&lt;s.length;r++)(t=(e=s[r]).getAttribute("data-secret"))||(t=Math.random().toString(36).substring(2,12),e.src+="#?secret="+t,e.setAttribute("data-secret",t)),e.contentWindow.postMessage({message:"ready",secret:t},"*")},!1)))}(window,document);
+/* ]]&gt; */
+&lt;/script&gt;
+</html><description>[vc_row full_width=&#xA0;&#xBB;stretch_row_content_no_spaces&#xA0;&#xBB;][vc_column][/vc_column][/vc_row][vc_row css=&#xA0;&#xBB;.vc_custom_1443627676850{padding-bottom: 50px !important;}&#xA0;&#xBB;][vc_column width=&#xA0;&#xBB;1/4&Prime;][/vc_column][vc_column width=&#xA0;&#xBB;3/4&Prime;][vc_column_text] Qu&#x2019;est-ce qu&#x2019;&#xEA;tre laur&#xE9;at ? [/vc_column_text][vc_column_text]Etre laur&#xE9;at, c&#x2019;est adh&#xE9;rer aux valeurs d&#x2019;Emergence, c&#x2019;est respecter les engagements pris avec l&#x2019;association, c&#x2019;est souhaiter r&#xE9;ussir ses &#xE9;tudes et devenir un citoyen acteur du mieux vivre ensemble.[/vc_column_text][vc_separator][vc_column_text] Je suis en premi&#xE8;re, deuxi&#xE8;me ou troisi&#xE8;me ann&#xE9;e apr&#xE8;s le bac, puis-je candidater ? [/vc_column_text][vc_column_text]Oui, nous [&hellip;]</description></oembed>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Mise en cache objet de 27/64 objets utilisant Disk
+Mise en cache de page à l’aide de Disk: Enhanced (Requested URI contains query) 
+Mise en cache de la base de données de 5/7 requêtes en 0.719 secondes utilisant Disk
+
+Served from: www.areli.fr @ 2024-03-18 10:37:09 by W3 Total Cache
+-->

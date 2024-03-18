@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	nBh5TgxpOiCXrEvR3bAkG_SCn7O9dGOLFvk62yla7G4-1710754262-1.0.1.1-DUfceyId0VQbcb8RkaOm0opIamnttx9O0tq72Kv2BskabLACZjF4vEAKCjebASLZNrzS915A5_iY5Lj2EILUTA
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+.yandex.ru	TRUE	/	FALSE	1999999999	_yasc	JFy02MSsm4SK02enwTLNcWHrntLea6Pl2eII3aT/026Y3stNl5K5jA193vNal/jo0g==
+.yandex.ru	TRUE	/	FALSE	1999999999	i	/wcMzz2UIqCstJvjSJnzszVYMzWTGOl1R+PqTlKkPWtza+/REI5/Xb4txuT6cTwaZQaYV6o4J3C/cn9rJZXWKeaAhEs=
+.yandex.ru	TRUE	/	FALSE	1999999999	yandexuid	9947025391710755064
+

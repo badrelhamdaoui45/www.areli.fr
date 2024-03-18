@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<oembed><version>1.0</version><provider_name>Areli</provider_name><provider_url>https://www.areli.fr</provider_url><title>L&#x2019;assessment&#x2026; k&#xE9;sako ? - Areli</title><type>rich</type><width>600</width><height>338</height><html>&lt;blockquote class="wp-embedded-content" data-secret="bg83eHqsCo"&gt;&lt;a href="https://www.areli.fr/2023/06/26/lassessment-kesako/"&gt;L&#x2019;assessment&#x2026; k&#xE9;sako ?&lt;/a&gt;&lt;/blockquote&gt;&lt;iframe sandbox="allow-scripts" security="restricted" src="https://www.areli.fr/2023/06/26/lassessment-kesako/embed/#?secret=bg83eHqsCo" width="600" height="338" title="&#xAB;&#xA0;L&#x2019;assessment&#x2026; k&#xE9;sako ?&#xA0;&#xBB; &#x2014; Areli" data-secret="bg83eHqsCo" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="wp-embedded-content"&gt;&lt;/iframe&gt;&lt;script type="text/javascript"&gt;
+/* &lt;![CDATA[ */
+/*! This file is auto-generated */
+!function(d,l){"use strict";l.querySelector&amp;&amp;d.addEventListener&amp;&amp;"undefined"!=typeof URL&amp;&amp;(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&amp;&amp;!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret="'+t.secret+'"]'),o=l.querySelectorAll('blockquote[data-secret="'+t.secret+'"]'),c=new RegExp("^https?:$","i"),i=0;i&lt;o.length;i++)o[i].style.display="none";for(i=0;i&lt;a.length;i++)s=a[i],e.source===s.contentWindow&amp;&amp;(s.removeAttribute("style"),"height"===t.message?(1e3&lt;(r=parseInt(t.value,10))?r=1e3:~~r&lt;200&amp;&amp;(r=200),s.height=r):"link"===t.message&amp;&amp;(r=new URL(s.getAttribute("src")),n=new URL(t.value),c.test(n.protocol))&amp;&amp;n.host===r.host&amp;&amp;l.activeElement===s&amp;&amp;(d.top.location.href=t.value))}},d.addEventListener("message",d.wp.receiveEmbedMessage,!1),l.addEventListener("DOMContentLoaded",function(){for(var e,t,s=l.querySelectorAll("iframe.wp-embedded-content"),r=0;r&lt;s.length;r++)(t=(e=s[r]).getAttribute("data-secret"))||(t=Math.random().toString(36).substring(2,12),e.src+="#?secret="+t,e.setAttribute("data-secret",t)),e.contentWindow.postMessage({message:"ready",secret:t},"*")},!1)))}(window,document);
+/* ]]&gt; */
+&lt;/script&gt;
+</html><thumbnail_url>https://www.areli.fr/wp-content/uploads/2023/06/Assess-Web.jpg</thumbnail_url><thumbnail_width>390</thumbnail_width><thumbnail_height>425</thumbnail_height><description>Le processus de s&#xE9;lection des laur&#xE9;ats d&#x2019;Emergence comporte quatre &#xE9;tapes :&#xA0; la r&#xE9;union d&#x2019;information, le dossier de candidature, l&#x2019;assessment et le speed-dating. Cette ann&#xE9;e, 245 jeunes ont particip&#xE9; aux r&#xE9;unions d&#x2019;information, et 182 ont d&#xE9;pos&#xE9; un dossier de candidature. 144 r&#xE9;pondaient aux crit&#xE8;res pour participer au processus de s&#xE9;lection. Ces 144 candidats ont donc, dans [&hellip;]</description></oembed>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Mise en cache objet de 30/67 objets utilisant Disk
+Mise en cache de page à l’aide de Disk: Enhanced (Requested URI contains query) 
+Mise en cache de la base de données de 5/7 requêtes en 0.012 secondes utilisant Disk
+
+Served from: www.areli.fr @ 2024-03-18 10:52:45 by W3 Total Cache
+-->
